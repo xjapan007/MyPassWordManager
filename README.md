@@ -4,6 +4,12 @@ Un gestionnaire de mots de passe de bureau, simple, sécurisé et multiplateform
 
 ![Capture d'écran de My Pass Manager](https://github.com/xjapan007/MyPassWordManager/issues/3#issue-3566705369)
 
+## ❤️ Soutenir le projet
+
+Si ce projet vous est utile et que vous souhaitez me remercier, vous pouvez m'offrir un café !
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/P5P21NKY2H)
+
 ## 📖 Description
 
 Ce projet est un gestionnaire de mots de passe local. Il ne synchronise rien sur le cloud. Votre coffre-fort est un fichier **chiffré** stocké localement sur votre machine, protégé par un **mot de passe maître**.
