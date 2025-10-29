@@ -1,0 +1,16 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Fichiers de compilation (PyInstaller)
+dist/
+build/
+*.spec
+
+# Fichiers de configuration utilisateur (NE JAMAIS PARTAGER !)
+.config/
+AppData/
+
+# Fichiers OS
+.DS_Store
+Thumbs.db

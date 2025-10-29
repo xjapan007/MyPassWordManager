@@ -1,0 +1,15 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=My PassWord Manager By xjapan
+Comment=Je crois que tout ce qui ne vous tue pas vous rend... plus bizarre.
+
+# Chemin où l'exécutable sera installé
+# On utilise /opt/ pour les logiciels "optionnels"
+Exec=/usr/bin/python3 /opt/MyPassManager/coffre.py
+
+# Chemin vers l'icône (que nous copierons aussi)
+Icon=/opt/MyPassManager/coffre.png
+
+Terminal=false
+Categories=Utility;Security;
