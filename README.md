@@ -2,7 +2,7 @@
 
 Un gestionnaire de mots de passe de bureau, simple, sécurisé et multiplateforme (Windows & Linux) construit en Python.
 
-![https://github.com/xjapan007/MyPassWordManager/issues/1#issue-3566326248](https://github.com/xjapan007/MyPassWordManager/issues/1#issue-3566326248)
+![Capture d'écran de My Pass Manager](https://github.com/xjapan007/MyPassWordManager/issues/1#issue-3566326248)
 
 ## 📖 Description
 
@@ -43,7 +43,7 @@ Vous pouvez utiliser le script d'installation pour l'installer proprement.
 1.  **Clonez ce dépôt (ou téléchargez le ZIP) :**
     ```bash
     git clone [https://github.com/xjapan007/MyPassWordManager.git](https://github.com/xjapan007/MyPassWordManager.git)
-    cd MyPassManager
+    cd MyPassWordManager
     ```
 
 2.  **Installez les dépendances Python :**
