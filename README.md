@@ -2,7 +2,7 @@
 
 Un gestionnaire de mots de passe de bureau, simple, sécurisé et multiplateforme (Windows & Linux) construit en Python.
 
-![Capture d'écran de My PassWord Manager](https://github.com/xjapan007/MyPassWordManager/issues/1#issue-3566326248)
+![https://github.com/xjapan007/MyPassWordManager/issues/1#issue-3566326248](https://github.com/xjapan007/MyPassWordManager/issues/1#issue-3566326248)
 
 ## 📖 Description
 
@@ -31,7 +31,7 @@ Construit avec :
 
 La méthode la plus simple est d'utiliser l'installateur.
 
-1.  Allez sur la page **[Releases](https://github.com/TON_NOM_UTILISATEUR/TON_REPO/releases)** de ce projet.
+1.  Allez sur la page **[Releases](https://github.com/xjapan007/MyPassWordManager/releases)** de ce projet.
 2.  Téléchargez le dernier `setup-MyPassManager.exe`.
 3.  Lancez l'installateur et suivez les instructions.
 4.  L'application sera disponible dans votre Menu Démarrer.
@@ -42,7 +42,7 @@ Vous pouvez utiliser le script d'installation pour l'installer proprement.
 
 1.  **Clonez ce dépôt (ou téléchargez le ZIP) :**
     ```bash
-    git clone [https://github.com/TON_NOM_UTILISATEUR/TON_REPO.git](https://github.com/TON_NOM_UTILISATEUR/TON_REPO.git)
+    git clone [https://github.com/xjapan007/MyPassWordManager.git](https://github.com/xjapan007/MyPassWordManager.git)
     cd MyPassManager
     ```
 
@@ -68,7 +68,7 @@ Si vous voulez simplement lancer le script sans l'installer :
 
 1.  **Clonez le dépôt :**
     ```bash
-    git clone [https://github.com/TON_NOM_UTILISATEUR/TON_REPO.git](https://github.com/TON_NOM_UTILISATEUR/TON_REPO.git)
+    git clone [https://github.com/xjapan007/MyPassWordManager.git](https://github.com/xjapan007/MyPassWordManager.git)
     cd MyPassManager
     ```
 
