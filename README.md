@@ -42,7 +42,7 @@ Vous pouvez utiliser le script d'installation pour l'installer proprement.
 
 1.  **Clonez ce dépôt (ou téléchargez le ZIP) :**
     ```bash
-    git clone [https://github.com/xjapan007/MyPassWordManager.git](https://github.com/xjapan007/MyPassWordManager.git)
+    git clone https://github.com/xjapan007/MyPassWordManager.git
     cd MyPassWordManager
     ```
 
@@ -68,7 +68,7 @@ Si vous voulez simplement lancer le script sans l'installer :
 
 1.  **Clonez le dépôt :**
     ```bash
-    git clone [https://github.com/xjapan007/MyPassWordManager.git](https://github.com/xjapan007/MyPassWordManager.git)
+    git clone https://github.com/xjapan007/MyPassWordManager.git
     cd MyPassManager
     ```
 
