@@ -2,7 +2,7 @@
 
 Un gestionnaire de mots de passe de bureau, simple, sécurisé et multiplateforme (Windows & Linux) construit en Python.
 
-![Capture](https://github.com/xjapan007/MyPassWordManager/issues/3#issue-3566705369)
+![Capture d'écran de My Pass Manager](https://github.com/user-attachments/assets/c18c0ff5-57f8-4b05-9f17-208e86d05a4a)
 
 ## 📖 Description
 
